@@ -27,8 +27,3 @@ Python ≥ 3.x with required packages:
 numpy
 matplotlib
 Jupyter Notebook
-
-## Additional code (Mathematica)
-
-The repository also contains scripts written in Mathematica (.nb / .wl files) used for symbolic calculations and analytical derivations related to the paper. 
-These files require Wolfram Mathematica to run.
